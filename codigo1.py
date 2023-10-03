@@ -1,4 +1,4 @@
-print("holaa, me gustan las papitas :D")
+print("holaa, esta bien chido mi jueguito")
 
 // Colocando un #%% es como una separacion entre codigo y codigo
 // Siempre que se hace una modificacion, se tiene que colocar un git add y luego git commit
